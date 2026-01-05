@@ -1,0 +1,6 @@
+aiogram==3.4.1
+firebase-admin
+aiohttp
+qrcode
+pillow
+python-dotenv
